@@ -1,0 +1,11 @@
+c:\users\guena\source\repos\PingCount\PingCount\bin\Debug\netcoreapp2.0\PingCount.deps.json
+c:\users\guena\source\repos\PingCount\PingCount\bin\Debug\netcoreapp2.0\PingCount.runtimeconfig.json
+c:\users\guena\source\repos\PingCount\PingCount\bin\Debug\netcoreapp2.0\PingCount.runtimeconfig.dev.json
+c:\users\guena\source\repos\PingCount\PingCount\bin\Debug\netcoreapp2.0\PingCount.dll
+c:\users\guena\source\repos\PingCount\PingCount\bin\Debug\netcoreapp2.0\PingCount.pdb
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.csprojResolveAssemblyReference.cache
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.csproj.CoreCompileInputs.cache
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.AssemblyInfoInputs.cache
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.AssemblyInfo.cs
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.dll
+c:\users\guena\source\repos\PingCount\PingCount\obj\Debug\netcoreapp2.0\PingCount.pdb
