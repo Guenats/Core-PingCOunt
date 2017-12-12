@@ -29,3 +29,9 @@ et lancer la commande
 ```
 dotnet run
 ```
+
+**Utilisation**
+
+2 routes existe : api/ping et api/count
+
+ 
