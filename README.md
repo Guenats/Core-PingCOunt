@@ -4,6 +4,12 @@ Application réalisé en .NET CORE
 
 **Pré-requis**
 
+**MacOS**
+
+Installer le pkg : https://download.microsoft.com/download/5/D/F/5DF4B836-7DFD-4CCF-AC96-101E2A4C7421/dotnet-sdk-2.1.2-osx-gs-x64.pkg
+
+**Ubuntu**
+
 Installer jq et bc pour le script
 ```
 apt-get install jq
