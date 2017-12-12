@@ -7,7 +7,6 @@ namespace PingCount.Models
 {
     public class Counter
     {
-        public long Id { get; set; }
         public int TotalPing { get; set; }
     }
 }

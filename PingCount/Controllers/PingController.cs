@@ -15,24 +15,16 @@ namespace PingCount.Controllers
     public class PingController : Controller
     {
         private readonly PingContext _context;
-
+        public static int totalCount;
         public static Ping ping { get; set; } = new Ping();
-        public PingController(PingContext context)
-        {
-            _context = context;
-
-            if (_context.PingItems.Count() == 0)
-            {
-                _context.PingItems.Add(new Ping { Id = 01 });
-                _context.SaveChanges();
-            }
-        }
 
         [HttpGet]
-        public string GetPing()
+        public IActionResult Ping()
         {
-            ping.Total++;
-            return "pong";
+            ping.Message = "pong";
+            totalCount++;
+            return new ObjectResult(ping);
+
         }
     }
 }

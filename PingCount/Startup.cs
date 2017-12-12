@@ -11,6 +11,8 @@ using Microsoft.Extensions.Options;
 using PingCount.Models;
 using Microsoft.EntityFrameworkCore;
 using SharpRaven;
+using SharpRaven.Data;
+using Microsoft.AspNetCore.Hosting.Internal;
 
 namespace PingCount
 {

@@ -7,8 +7,7 @@ namespace PingCount.Models
 {
     public class Ping
     {
-        public long Id { get; set; }
+        public string Message { get; set; }
 
-        public int Total { get; set; }
     }
 }
