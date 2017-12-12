@@ -4,6 +4,12 @@ Application réalisé en .NET CORE
 
 **Pré-requis**
 
+Installer jq et bc pour le script
+```
+apt-get install jq
+apt-get install bc
+```
+
 Installer .Net CORE sur Linux
 
 Lancer les commandes suivantes
